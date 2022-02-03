@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BookSearchApp</string>
+
+    <string name="no_search_result_text">No Search Result</string>
+    <string name="search_guide_text">Search with Keyword consisting of english letters or numbers.
+        \n\nYou can also search with:
+        \n\n- Keyword1|Keyword2 format to search for books with both keywords in title.
+        \n\n- Keyword1-Keyword2 format to search for books with Keyword1 in title and without
+        Keyword2 in title.
+    </string>
+</resources>
